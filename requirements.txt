@@ -1,0 +1,4 @@
+pyrogram
+nest_asyncio
+aiohttp
+tzdata
